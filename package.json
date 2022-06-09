@@ -1,0 +1,25 @@
+{
+  "name": "cubbook",
+  "version": "1.0.0",
+  "description": "smile",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongxinweia/xiongxinweia.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongxinweia/xiongxinweia.github.io/issues"
+  },
+  "homepage": "https://github.com/xiongxinweia/xiongxinweia.github.io#readme",
+  "dependencies": {
+    "gitbook-plugin-ck-theme": "^1.0.3",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-search-pro": "^2.0.2"
+  }
+}
