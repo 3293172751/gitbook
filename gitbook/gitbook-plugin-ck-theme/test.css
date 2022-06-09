@@ -1,0 +1,52 @@
+h1 {
+    color: #2674BA;
+}
+
+h2 {
+    color: #0099CC;
+}
+
+h3 {
+    color: #d86f6f;
+}
+
+h4 {
+    color: #662D91;
+}
+
+h5 {
+    color: #444444;
+}
+
+table th {
+    color: white;
+    background: #696969;
+}
+
+.markdown-section table code {
+    color: #d63200;
+}
+
+.markdown-section ol code {
+    color: #d63200;
+}
+
+.markdown-section p code {
+    color: #d63200;
+}
+
+.markdown-section ul code {
+    color: #d63200;
+}
+
+.page-inner {
+    max-width: 80%;
+}
+
+table {
+    max-width: 100%;
+}
+
+.markdown-section em {
+    color: grey;
+}
